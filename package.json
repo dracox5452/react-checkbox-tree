@@ -53,7 +53,7 @@
     "test:style-format": "prettier --check src/scss/**/*.scss examples/src/scss/**/*.scss"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
@@ -76,8 +76,8 @@
     "eslint-import-resolver-webpack": "^0.13.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.10.0",
-    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^6.1.1",
     "global-jsdom": "^27.0.0",
     "globals": "^16.4.0",
     "html-bundler-webpack-plugin": "^4.21.1",
@@ -88,7 +88,7 @@
     "postcss-cli": "^11.0.0",
     "prettier": "^3.6.2",
     "react": "^19.2.1",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.2.1",
     "sass": "^1.58.2",
     "sass-loader": "^16.0.5",
     "stylelint": "^16.24.0",
